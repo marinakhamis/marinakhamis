@@ -8,7 +8,7 @@ I'm a passionate full stack web developer... 👩🏻‍💻
 
 ## 🛠  Skills
 
-- **Client Side** : HTML, CSS, SASS, JavaScript, React.js, TailwindCSS
+- **Client Side** : HTML, CSS, SASS, JavaScript
 - **Server Side** : Node.js, Express.js, Python
 
 
