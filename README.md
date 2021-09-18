@@ -3,7 +3,7 @@
 
 
 ## 🚀 About me 
-I'm a passionate full stack web developer... 👩🏻‍💻
+I'm a passionate front end web developer... 👩🏻‍💻
 
 
 ## 🛠  Skills
