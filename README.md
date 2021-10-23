@@ -13,16 +13,14 @@ I'm a passionate full stack web developer... 👩🏻‍💻
 
 
 ## My Repos Overview
-
-
   
 | ID |  :octocat: Project name | Open PRs | Closed PRs |Forks | 
 | :--- | --- |  --- | --- | --- |
-||   :electron: ***Frontend web Projects***  ||||
+| |  ***Frontend web Projects***   | | | |
 | 1 | [**FEND-Travel-Planner-App**](https://github.com/marinakhamis/Travel-Planner-App-FEND) | [![GitHub Open PRs](https://img.shields.io/github/issues-pr-raw/marinakhamis/Travel-Planner-App-FEND?&logo=github)](https://github.com/marinakhamis/Travel-Planner-App-FEND/pulls)   | [![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed-raw/marinakhamis/Travel-Planner-App-FEND?logo=github)](https://github.com/marinakhamis/Travel-Planner-App-FEND/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub Forks](https://img.shields.io/github/forks/marinakhamis/Travel-Planner-App-FEND?style=social)](https://github.com/marinakhamis/Travel-Planner-App-FEND/network/members) | 
 | 2 | [**FEND-NLP-Project-no.4**](https://github.com/marinakhamis/NLP-Project-no.4) | [![GitHub Open PRs](https://img.shields.io/github/issues-pr-raw/marinakhamis/NLP-Project-no.4?&logo=github)](https://github.com/marinakhamis/NLP-Project-no.4/pulls) | [![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed-raw/marinakhamis/NLP-Project-no.4?logo=github)](https://github.com/marinakhamis/NLP-Project-no.4/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub Forks](https://img.shields.io/github/forks/marinakhamis/NLP-Project-no.4?style=social)](https://github.com/marinakhamis/NLP-Project-no.4/network/members)  | 
 | 3 | [**FEND-landing-page**](https://github.com/marinakhamis/landing-page-improved)  | [![GitHub Open PRs](https://img.shields.io/github/issues-pr-raw/marinakhamis/landing-page-improved?&logo=github)](https://github.com/marinakhamis/landing-page-improved/pulls)  | [![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed-raw/marinakhamis/landing-page-improved?logo=github)](https://github.com/marinakhamis/landing-page-improved/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub Forks](https://img.shields.io/github/forks/marinakhamis/landing-page-improved?style=social)](https://github.com/marinakhamis/landing-page-improved/network/members)  | 
-|| :shipit: ***Deep Learning Projects***   ||||
+| |  ***Deep Learning Projects***   | | | |
 | 1 | [**DLND-Project-01-Predicting-Bike-Sharing-Patterns**](https://github.com/marinakhamis/DLND-Project-01-Predicting-Bike-Sharing-Patterns) | [![GitHub Open PRs](https://img.shields.io/github/issues-pr-raw/marinakhamis/DLND-Project-01-Predicting-Bike-Sharing-Patterns?&logo=github)](https://github.com/marinakhamis/DLND-Project-01-Predicting-Bike-Sharing-Patterns/pulls)   | [![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed-raw/marinakhamis/DLND-Project-01-Predicting-Bike-Sharing-Patterns?logo=github)](https://github.com/marinakhamis/DLND-Project-01-Predicting-Bike-Sharing-Patterns/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub Forks](https://img.shields.io/github/forks/marinakhamis/DLND-Project-01-Predicting-Bike-Sharing-Patterns?style=social)](https://github.com/marinakhamis/Travel-Planner-App-FEND/network/members) | 
 
 
