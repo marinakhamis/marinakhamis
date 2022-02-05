@@ -29,6 +29,6 @@ I'm a passionate full stack web developer... 👩🏻‍💻
   
 ## 🔗 Let's Connect!
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-khamis-140941165/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinakhamis)
 
 
