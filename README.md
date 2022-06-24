@@ -26,7 +26,9 @@ I'm a passionate full stack web developer... 👩🏻‍💻
 
 
 
-  
+## Streak Overview
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marinakhamis&theme=github-dark-blue)](https://git.io/streak-stats)
+
 ## 🔗 Let's Connect!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinakhamis)
